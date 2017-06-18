@@ -87,10 +87,10 @@ def export_inventory(inventory, filename="export_inventory.csv"):
 # TESTS-----------------------------------------------------------------------------------------
 #_inventory = {}
 #_inventory = import_inventory(_inventory,"test_inventory.csv")
-# print_table(_inventory)
+#print_table(_inventory)
 #random_loot = {"gold":1 , "silver":2, "torch" : 5}
 #_inventory = add_to_inventory(_inventory, random_loot)
-# print_table(_inventory,"count,asc")
+#print_table(_inventory,"count,asc")
 #random_loot2 = ("gold","silver","gold")
 #_inventory = add_to_inventory(_inventory, random_loot2)
-# print_table(_inventory,"count,desc")
+#print_table(_inventory,"count,desc")
